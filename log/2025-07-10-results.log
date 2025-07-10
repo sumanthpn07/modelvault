@@ -100,3 +100,23 @@
 2025-07-10 19:57:47 info: the server started listining on port port 3092
 2025-07-10 19:57:52 info: the server started listining on port port 3092
 2025-07-10 19:58:24 info: stopping the server
+2025-07-10 20:06:19 info: the server started listining on port port 3092
+2025-07-10 20:06:29 info: a request has been made with the following uuid [db91494a-79e8-4aa4-b581-81c662e5b299] /api/api/generate/prompt
+2025-07-10 20:06:29 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:06:29 GMT+0530 (India Standard Time)
+2025-07-10 20:06:41 info: the server started listining on port port 3092
+2025-07-10 20:06:44 info: a request has been made with the following uuid [d295709e-0cbf-4a1e-a2bf-9383260d6c0f] /api/api/generate/prompt
+2025-07-10 20:06:44 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:06:44 GMT+0530 (India Standard Time)
+2025-07-10 20:10:38 info: the server started listining on port port 3092
+2025-07-10 20:11:23 info: the server started listining on port port 3092
+2025-07-10 20:11:28 info: a request has been made with the following uuid [12dc4784-711a-43f5-837e-b71f6eabf286] /api/api/generate/prompt
+2025-07-10 20:11:28 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:11:28 GMT+0530 (India Standard Time)
+2025-07-10 20:11:29 info: a request has been made with the following uuid [c77f4271-2e30-4314-9e65-160bc5e9514b] /api/api/generate/prompt
+2025-07-10 20:11:29 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:11:29 GMT+0530 (India Standard Time)
+2025-07-10 20:11:34 info: the server started listining on port port 3092
+2025-07-10 20:11:34 info: a request has been made with the following uuid [43f2a454-cb86-4799-ad72-68063d016f6b] /api/api/generate/prompt
+2025-07-10 20:11:34 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:11:34 GMT+0530 (India Standard Time)
+2025-07-10 20:11:35 info: a request has been made with the following uuid [45a66a75-180a-4353-9e88-25f3f9c53936] /api/api/generate/prompt
+2025-07-10 20:11:35 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:11:35 GMT+0530 (India Standard Time)
+2025-07-10 20:14:00 info: a request has been made with the following uuid [e8bc6116-29d2-4c6c-b9a7-954bc51b4e3a] /api/api/generate/prompt
+2025-07-10 20:14:00 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 20:14:00 GMT+0530 (India Standard Time)
+2025-07-10 20:35:50 info: stopping the server

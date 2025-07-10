@@ -1,3 +1,0 @@
-2023-05-21 23:42:39 error: error ,Error during processing request: http://localhost:3092/api/api/transfer/transactions details message: Invalid left-hand side in assignment
-2023-05-21 23:47:24 error: error ,Error during processing request: http://localhost:3092/api/api/transfer/transactions/82331209-9e6b-4096-850d-6d644948091e details message: Cannot read properties of null (reading 'balance')
-2023-05-21 23:51:09 error: error ,Error during processing request: http://localhost:3092/api/api/transfer/transactions details message: "receiverId" is required
