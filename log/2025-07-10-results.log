@@ -1,0 +1,102 @@
+2025-07-10 19:13:18 info: the server started listining on port port 3092
+2025-07-10 19:14:05 info: the server started listining on port port 3092
+2025-07-10 19:14:25 info: the server started listining on port port 3092
+2025-07-10 19:14:31 info: the server started listining on port port 3092
+2025-07-10 19:14:46 info: the server started listining on port port 3092
+2025-07-10 19:15:08 info: the server started listining on port port 3092
+2025-07-10 19:15:54 info: the server started listining on port port 3092
+2025-07-10 19:21:20 info: the server started listining on port port 3092
+2025-07-10 19:21:53 info: the server started listining on port port 3092
+2025-07-10 19:21:57 info: the server started listining on port port 3092
+2025-07-10 19:22:07 info: the server started listining on port port 3092
+2025-07-10 19:22:11 info: the server started listining on port port 3092
+2025-07-10 19:22:14 info: the server started listining on port port 3092
+2025-07-10 19:22:23 info: the server started listining on port port 3092
+2025-07-10 19:22:23 info: stopping the server
+2025-07-10 19:23:19 info: the server started listining on port port 3092
+2025-07-10 19:23:26 info: a request has been made with the following uuid [0504ccad-7f25-4754-8649-e9a3bac0f338] /
+2025-07-10 19:23:27 info: a request has been made with the following uuid [4a177f41-f0b2-4c7f-96bb-a49e722e98b3] /favicon.ico
+2025-07-10 19:25:33 info: the server started listining on port port 3092
+2025-07-10 19:25:35 info: stopping the server
+2025-07-10 19:25:38 info: the server started listining on port port 3092
+2025-07-10 19:25:55 info: a request has been made with the following uuid [99ac0d34-d312-4386-b82b-025d87a61ee3] /api/api/authenticate/
+2025-07-10 19:25:55 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 19:25:55 GMT+0530 (India Standard Time)
+2025-07-10 19:26:14 info: the server started listining on port port 3092
+2025-07-10 19:26:31 info: the server started listining on port port 3092
+2025-07-10 19:27:10 info: the server started listining on port port 3092
+2025-07-10 19:27:27 info: the server started listining on port port 3092
+2025-07-10 19:28:42 info: the server started listining on port port 3092
+2025-07-10 19:29:00 info: the server started listining on port port 3092
+2025-07-10 19:29:19 info: the server started listining on port port 3092
+2025-07-10 19:29:34 info: stopping the server
+2025-07-10 19:29:38 info: the server started listining on port port 3092
+2025-07-10 19:29:51 info: the server started listining on port port 3092
+2025-07-10 19:30:08 info: the server started listining on port port 3092
+2025-07-10 19:30:19 info: the server started listining on port port 3092
+2025-07-10 19:30:21 info: the server started listining on port port 3092
+2025-07-10 19:30:22 info: the server started listining on port port 3092
+2025-07-10 19:30:27 info: the server started listining on port port 3092
+2025-07-10 19:30:27 info: stopping the server
+2025-07-10 19:30:30 info: the server started listining on port port 3092
+2025-07-10 19:30:40 info: the server started listining on port port 3092
+2025-07-10 19:30:51 info: the server started listining on port port 3092
+2025-07-10 19:30:53 info: stopping the server
+2025-07-10 19:30:56 info: the server started listining on port port 3092
+2025-07-10 19:31:17 info: the server started listining on port port 3092
+2025-07-10 19:31:55 info: the server started listining on port port 3092
+2025-07-10 19:31:59 info: stopping the server
+2025-07-10 19:32:02 info: the server started listining on port port 3092
+2025-07-10 19:32:12 info: the server started listining on port port 3092
+2025-07-10 19:38:10 info: the server started listining on port port 3092
+2025-07-10 19:38:13 info: the server started listining on port port 3092
+2025-07-10 19:39:20 info: the server started listining on port port 3092
+2025-07-10 19:39:31 info: the server started listining on port port 3092
+2025-07-10 19:40:20 info: the server started listining on port port 3092
+2025-07-10 19:40:32 info: the server started listining on port port 3092
+2025-07-10 19:40:34 info: stopping the server
+2025-07-10 19:40:38 info: the server started listining on port port 3092
+2025-07-10 19:41:21 info: the server started listining on port port 3092
+2025-07-10 19:41:28 info: the server started listining on port port 3092
+2025-07-10 19:43:02 info: the server started listining on port port 3092
+2025-07-10 19:43:10 info: the server started listining on port port 3092
+2025-07-10 19:43:18 info: the server started listining on port port 3092
+2025-07-10 19:43:26 info: the server started listining on port port 3092
+2025-07-10 19:43:31 info: the server started listining on port port 3092
+2025-07-10 19:43:32 info: stopping the server
+2025-07-10 19:43:36 info: the server started listining on port port 3092
+2025-07-10 19:43:44 info: a request has been made with the following uuid [c9cb8fcd-9aba-472e-a2b8-62355a527156] /api/api/generate/prompt
+2025-07-10 19:43:44 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 19:43:44 GMT+0530 (India Standard Time)
+2025-07-10 19:45:09 info: a request has been made with the following uuid [329bc2ab-8b26-415b-93af-fb476825a851] /api/api/generate/prompt
+2025-07-10 19:45:09 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 19:45:09 GMT+0530 (India Standard Time)
+2025-07-10 19:45:10 info: a request has been made with the following uuid [760cdf36-89f6-470e-bd33-2032f0e7e1a8] /api/api/generate/prompt
+2025-07-10 19:45:10 info: a request has been made and proccessed successfully at: Thu Jul 10 2025 19:45:10 GMT+0530 (India Standard Time)
+2025-07-10 19:45:24 info: the server started listining on port port 3092
+2025-07-10 19:45:36 info: the server started listining on port port 3092
+2025-07-10 19:45:40 info: stopping the server
+2025-07-10 19:45:45 info: the server started listining on port port 3092
+2025-07-10 19:46:03 info: the server started listining on port port 3092
+2025-07-10 19:46:05 info: the server started listining on port port 3092
+2025-07-10 19:46:05 info: stopping the server
+2025-07-10 19:46:11 info: the server started listining on port port 3092
+2025-07-10 19:46:27 info: the server started listining on port port 3092
+2025-07-10 19:46:42 info: the server started listining on port port 3092
+2025-07-10 19:46:48 info: the server started listining on port port 3092
+2025-07-10 19:47:28 info: stopping the server
+2025-07-10 19:47:32 info: the server started listining on port port 3092
+2025-07-10 19:48:31 info: the server started listining on port port 3092
+2025-07-10 19:48:41 info: the server started listining on port port 3092
+2025-07-10 19:48:44 info: stopping the server
+2025-07-10 19:48:48 info: the server started listining on port port 3092
+2025-07-10 19:55:49 info: the server started listining on port port 3092
+2025-07-10 19:56:01 info: the server started listining on port port 3092
+2025-07-10 19:56:05 info: stopping the server
+2025-07-10 19:56:09 info: the server started listining on port port 3092
+2025-07-10 19:57:18 info: the server started listining on port port 3092
+2025-07-10 19:57:24 info: the server started listining on port port 3092
+2025-07-10 19:57:31 info: the server started listining on port port 3092
+2025-07-10 19:57:33 info: the server started listining on port port 3092
+2025-07-10 19:57:36 info: stopping the server
+2025-07-10 19:57:39 info: the server started listining on port port 3092
+2025-07-10 19:57:47 info: the server started listining on port port 3092
+2025-07-10 19:57:52 info: the server started listining on port port 3092
+2025-07-10 19:58:24 info: stopping the server

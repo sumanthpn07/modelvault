@@ -1,0 +1,89 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "modelVault API",
+    "version": "1.0.0",
+    "description": "modelVault API with Swagger doc",
+    "contact": {
+      "email": "podonolanasumanth@gmail.com"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3092/api/"
+    },
+    {
+      "url": "https://localhost:3092/api/"
+    }
+  ],
+  "paths": {
+    "/api/authenticate/": {
+      "post": {
+        "tags": [
+          "Authenticates"
+        ],
+        "description": "Use this api for the first time to load the Data",
+        "parameters": [],
+        "responses": {},
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "email": {
+                    "example": "any"
+                  },
+                  "password": {
+                    "example": "any"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/generate/prompt": {
+      "post": {
+        "tags": [
+          "Data"
+        ],
+        "description": "Use this api for the first time to load the Data",
+        "parameters": [
+          {
+            "name": "x-access-token",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {},
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "prompt": {
+                    "example": "any"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "api_key": {
+        "type": "apiKey",
+        "name": "x-access-token",
+        "in": "header"
+      }
+    }
+  }
+}
