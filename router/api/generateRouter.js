@@ -23,4 +23,12 @@ router.post(
     GenerateDataController.generateData
 );
 
+router.post(
+    '/prompt/withAuthentication', 
+    limiter,
+    addSwaggerTag,
+    Authentication.keyValidate,
+    GenerateDataController.generateData
+);
+
 module.exports = router;

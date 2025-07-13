@@ -23,8 +23,11 @@
           "Authenticates"
         ],
         "description": "Use this api for the first time to load the Data",
-        "parameters": [],
-        "responses": {},
+        "responses": {
+          "default": {
+            "description": ""
+          }
+        },
         "requestBody": {
           "content": {
             "application/json": {
@@ -50,6 +53,33 @@
           "Data"
         ],
         "description": "Use this api for the first time to load the Data",
+        "responses": {
+          "default": {
+            "description": ""
+          }
+        },
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "prompt": {
+                    "example": "any"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/generate/prompt/withAuthentication": {
+      "post": {
+        "tags": [
+          "Data"
+        ],
+        "description": "Use this api for the first time to load the Data",
         "parameters": [
           {
             "name": "x-access-token",
@@ -59,7 +89,11 @@
             }
           }
         ],
-        "responses": {},
+        "responses": {
+          "default": {
+            "description": ""
+          }
+        },
         "requestBody": {
           "content": {
             "application/json": {
